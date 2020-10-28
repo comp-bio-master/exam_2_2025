@@ -140,6 +140,8 @@ ___
 
 8. I have noticed a pattern where the elderly are the last age group to experience a spike in COVID cases after a local outbreak.  Modify your code from question 3 above to make a plot with `new_cases_per10k` on the y axis.  Is the figure consistent with my observations from other time periods? Which figure, this one or the one from question 3 better portrays the level of COVID infection within and among age classes?  Why?
 
+![](nueces_new-cases-per10k_age-class.png)
+
 ___
 
 
