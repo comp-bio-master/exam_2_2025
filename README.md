@@ -145,4 +145,4 @@ ___
 ___
 
 
-9. Extra Credit.  Convert the present file into an R Markdown file named `ageCovidSummary.Rmd`
+#### 9. Extra Credit (worth 25% of total exam).  Convert the present file into an R Markdown file named `ageCovidSummary.Rmd`
