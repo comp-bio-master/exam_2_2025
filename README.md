@@ -11,7 +11,7 @@ When you are complete, submit the exam by pushing the changes to github (you may
 ---
 
 
-0. Create an R script named `ageCovidSummary.R` in your exam repo and set the working directory with the following command:
+### 0. Create an R script named `ageCovidSummary.R` in your exam repo and set the working directory with the following command:
 
 ```r 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
