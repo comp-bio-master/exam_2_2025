@@ -12,7 +12,10 @@ When you are complete, submit the exam by pushing the changes to github (you may
 > I will take off points for AI slop - [see definition](https://en.wikipedia.org/wiki/AI_slop).  You can use AI, but if the code you submit is overly convoluted using many more lines of code than is necessary, with many more features than are asked for I will deduct points even if the code works.  It is your job to stop AI slop.
 
 > [!CAUTION]
-> Read each question carefully.  I have slightly altered the wording of each questionto exclude certain types of [AI slop]((https://en.wikipedia.org/wiki/AI_slop) as valid answers. Further, mind your paths.  If I have to alter you code to make it work on my computer, then I will deduct points.
+> Read each question carefully.  I have slightly altered the wording of each questionto exclude certain types of [AI slop]((https://en.wikipedia.org/wiki/AI_slop) as valid answers.
+
+> [!CAUTION]
+> Mind your paths.  If I have to alter your code to make it work on my computer, then I will deduct points.
 
 ---
 
